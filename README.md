@@ -15,7 +15,3 @@ When I get asked how long my password should be, it should be no longer than 128
 When I get asked some questions I, I answer them to which it fits my needs. 
 
 When done answering all the questions, I should get a passwod that fits my need.
-
-
-
-
